@@ -1,4 +1,8 @@
 # MPM: Motion and Position Map 
+
+## Open in the Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/MPM/blob/master/Motion_and_Position_Map.ipynb)
+
 ## Requirements
 
 - Python3.6
